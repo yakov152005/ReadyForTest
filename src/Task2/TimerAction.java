@@ -1,2 +1,5 @@
-package Task2;public enum TimerAction {
+package Task2;
+
+public enum TimerAction {
+    PRINT_NUMBERS_SERIES,PRINT_MESSAGE,PRINT_RANDOM_NUMBER,PRINT_LOWEST
 }
